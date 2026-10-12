@@ -1,0 +1,3 @@
+Модель,Архитектура,BLEU,METEOR
+DialoGPT-small,Decoder-only,0.0056,0.1049
+FLAN-T5-base,Encoder-decoder,0.0104,0.1213

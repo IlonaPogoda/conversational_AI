@@ -1,0 +1,6 @@
+context,dialogpt_before,dialogpt_after,flan_before,flan_after
+User: Hello! How are you today?,Hi !,I'm doing well . How are you ?,I'm fine.,I'm fine. I'm feeling fine.
+User: What are you doing this weekend?,I'm in .,I'm going to go to the beach .,I'm going to the beach.,I'm going to the beach.
+User: I am feeling a little tired today.,I'm feeling a little tired right now .,I am sorry .,I'm not sure what to do.,I'm sorry. I'm not feeling well.
+User: Do you like watching movies?,I love movies .,"Yes , I like watching movies .",I like to watch a lot of movies.,"Yes, I do. I like to watch movies."
+User: Can you help me with my homework?,I can help you with your homework,"Yes , I can help you .",Sure. I'll help you with that.,"Yes, I'd like to."

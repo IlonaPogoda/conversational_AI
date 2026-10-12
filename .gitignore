@@ -1,2 +1,6 @@
 .venvconvlb
 /.venvconvlb
+models/
+.venvconvlb/
+.ipynb_checkpoints/
+__pycache__/
