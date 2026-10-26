@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+trainval.pkl
+test.pkl
+qa/results/
+qa/checkpoints/
+
+*.pt
+*.pth
+*.safetensors
+
+.env
