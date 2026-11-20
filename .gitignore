@@ -4,3 +4,13 @@ models/
 .venvconvlb/
 .ipynb_checkpoints/
 __pycache__/git add 
+# Лабораторная 5
+lab5/**/checkpoint-*/
+lab5/**/adapter_model.safetensors
+lab5/**/model.safetensors
+lab5/**/*.pt
+lab5/**/*.pth
+lab5/**/*.pkl
+
+# Служебные файлы
+.ipynb_checkpoints/

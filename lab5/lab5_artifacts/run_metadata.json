@@ -1,0 +1,21 @@
+{
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "dataset": "HuggingFaceH4/ultrachat_200k",
+  "method": "lora",
+  "seed": 42,
+  "n_train": 663,
+  "n_val": 80,
+  "n_test": 120,
+  "max_length": 512,
+  "max_new_tokens": 64,
+  "max_steps": 120,
+  "learning_rate": 0.0002,
+  "effective_batch": 8,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "trainable_parameters": 4399104,
+  "trainable_percentage": 0.8825888244963597,
+  "train_seconds": 294.744937467,
+  "peak_vram_gib_pytorch": 1.8937301635742188
+}
